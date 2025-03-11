@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ishan Aditya</h1>
 <h3 align="center">Aspiring AAA Game Developer | Unreal Engine | C++ | AI & Multiplayer Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cptreaper05&label=Profile%20views&color=0e75b6&style=flat" alt="cptreaper05" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cptreaper05" alt="cptreaper05" /></a> </p>
-
 - 🔭 I’m building **my skills in game development while managing and improving Epic, a GTA5 Roleplay Management group.**
 
 - 🌱 I’m currently learning **C++ for Unreal Engine, Multiplayer Networking, and AI Programming for Games.**
