@@ -1,45 +1,75 @@
-# Hi 👋, I'm Ishan Aditya  
+# Hi there, I'm Ishan Aditya! 👋
 
-B.Tech CSE Student @ IPU | Aspiring AI & Data Scientist | Web Developer  
+Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast from Delhi, India.
 
-🔭 I’m building my skills in **AI/DS and Web Development (MERN)**.  
+## 🚀 About Me
 
-🌱 I’m currently learning **C, C++, DSA, OOP, Discrete Mathematics**, and **React.js for full-stack development**.  
+- 🎓 **Student at GGSIPU Delhi**
+- 💻 **Full-Stack Developer** with focus on modern web technologies
+- 🌟 **Project Coordinator** - I can envision and manage complete applications from idea to deployment
+- 🎯 **Problem Solver** - Love turning complex ideas into working solutions
+- 📚 **Continuous Learner** - Always exploring new technologies and frameworks
 
-👯 I’m looking to collaborate on projects in **AI/ML and Web Applications**.  
+## 🛠️ Technologies & Tools
 
-📝 My ongoing projects include:  
-- 📊 **Finance Education Website** – Decode the financial market in simple words  
-- 🌐 **Portfolio & MERN apps**  
-- 🤖 **AI/DS practice projects**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-👨‍💻 All of my projects are available at: [github.com/CptReaper05](https://github.com/CptReaper05)  
+## 🌟 Featured Projects
 
-💬 Ask me about **C, C++, Python, Web Development, and AI/DS**.  
+### 🏥 [Help Children Platform](https://github.com/CptReaper05/help-children-platform)
+A comprehensive web platform connecting NGOs working with disabled children to potential donors.
+- **Tech Stack:** React, Firebase, CSS3
+- **Features:** Real-time messaging, image galleries, admin dashboard, email notifications
+- **🌐 [Live Demo](https://help-children-220a3.web.app)**
 
-📫 Reach me at: **ishan@sbit.in**  
+*More projects coming soon...*
 
-📄 Connect with me: [LinkedIn](https://www.linkedin.com/in/ishanadi)  
+## 📊 GitHub Stats
+
+![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CptReaper05&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CptReaper05&layout=compact&theme=radical)
+
+## 🎯 What I Do
+
+- **🏗️ Build Full-Stack Applications** - From concept to deployment
+- **🎨 Create User-Focused Designs** - Clean, intuitive interfaces
+- **🔥 Work with Modern Tech** - React, Firebase, modern JavaScript
+- **📱 Develop Responsive Solutions** - Mobile-first approach
+- **💡 Solve Real Problems** - Applications that make a difference
+
+## 🌱 Currently Learning
+
+- Advanced React patterns and hooks
+- Backend development with Node.js
+- Cloud deployment strategies
+- UI/UX design principles
+
+## 📫 Let's Connect!
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ishanadi/
+- 📧 **Email:** ishanaditya368@gmail.com
+- 🌐 **Portfolio:** [Your portfolio website if you have one]
+- 📍 **Location:** Delhi, India
+
+## ⚡ Fun Facts
+
+- 🎮 Gaming enthusiast (CptReaper05 name origin!)
+- 🌟 Love building projects that help people
+- 🚀 Always excited about new tech trends
+- 📚 Currently exploring AI and machine learning
 
 ---
 
-## 🛠️ Tech Stack  
+### 💭 *"Turning ideas into reality, one commit at a time"*
 
-**Languages**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+⭐ **Feel free to explore my repositories and don't forget to star the ones you find interesting!**
 
-**Web Development**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+<!--
+**CptReaper05/CptReaper05** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
+-->
