@@ -54,7 +54,7 @@ A comprehensive web platform connecting NGOs working with disabled children to p
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/ishanadi/
 - 📧 **Email:** ishanaditya368@gmail.com
-- 🌐 **Portfolio:** [Your portfolio website if you have one]
+- 🌐 **Portfolio:** Coming Soon
 - 📍 **Location:** Delhi, India
 
 ## ⚡ Fun Facts
